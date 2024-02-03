@@ -1,4 +1,4 @@
-module github.com/jiuhuche120/jhttp
+module github.com/chack1920/jhttp
 
 go 1.21.6
 
